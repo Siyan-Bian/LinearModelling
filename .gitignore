@@ -1,0 +1,5 @@
+# Ignore PDF files in this directory and all subdirectories.
+*.pdf
+
+# Ignore macOS Finder metadata.
+.DS_Store
